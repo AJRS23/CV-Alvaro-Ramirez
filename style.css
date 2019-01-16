@@ -301,6 +301,18 @@ footer hr {
   }
 }
 
+#Skills {
+  padding: 2em 1em;
+  margin-top: 2em;
+  
+  
+}
+#About {
+  padding: 2em 1em;
+  margin-top: 2em;
+  
+  
+}
 
 /* Education Block */
 .education {
@@ -319,7 +331,7 @@ footer hr {
 }
 
 
-/* Testimonials */
+/* Languages */
 .testimonial {
   text-align: center;
   margin-bottom: 30px;
@@ -340,7 +352,7 @@ footer hr {
   margin-top:  -15px;
 }
 
-/* Spotlight */
+/* Project */
 .spotlight {
   background-color: rgba(193, 198, 201, 0.384);
   padding: 3em 1em;
